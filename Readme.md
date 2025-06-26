@@ -51,7 +51,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Results
 
 This pipeline provides a detailed evaluation of the logistic regression model using various classification metrics, making it easy to assess the model's effectiveness. Visualizations give additional insights into data distributions, model predictions, and overall performance.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
