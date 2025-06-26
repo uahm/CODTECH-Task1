@@ -62,5 +62,5 @@ The dataset (`data.csv`) contains information on vehicles such as:
 3. Open the notebook:
 
    ```bash
-   jupyter notebook "Task1 (1).ipynb"
+   jupyter notebook "Task1.ipynb"
    ```
