@@ -51,7 +51,7 @@ The dataset (`data.csv`) contains information on vehicles such as:
    ```bash
    git clone https://github.com/uahm/vehicle-data-eda.git
    cd vehicle-data-eda
-````
+
 
 2. Install dependencies:
 
@@ -64,4 +64,3 @@ The dataset (`data.csv`) contains information on vehicles such as:
    ```bash
    jupyter notebook "Task1 (1).ipynb"
    ```
----
